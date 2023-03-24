@@ -1,0 +1,14 @@
+autom4te.cache/
+.deps
+compile
+missing
+depcomp
+install-sh
+Makefile.in
+Makefile
+config.*
+.dirstamp
+
+*.o
+fake2fs
+
